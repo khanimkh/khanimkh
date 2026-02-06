@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**khanimkh/khanimkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Below you'll find my repositories organized by category.
 
-Here are some ideas to get you started:
+## Machine Learning and Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning
+
+#### MultiAgent Environments using Cellular Learning Automata (M.Sc. Project)
+**Description:** Distributed Task Allocation in Multi-Agent Environments Using Cellular Learning Automata
+
+**Links:**
+- [Repository](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)
+- [Webpage](#) _(Coming soon)_
