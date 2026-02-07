@@ -1,26 +1,8 @@
-# Hi there 👋
+# Maryam Khani | AI & Machine Learning Portfolio
 
 Welcome to my GitHub profile! Here you'll find my projects organized by category.
 
 ## 📚 Repository Categories
-
-### 🤖 Machine Learning and Deep Learning
-
-#### Machine Learning
-- **[MultiAgent Environments using Cellular Learning Automata (M.Sc. Project)](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
-  - Multi-agent reinforcement learning using cellular learning automata
-  - [Project Page](#) *(Coming Soon)*
-
-#### Deep Learning
-- **[PyTorch Representation Learning - Mila](https://github.com/khanimkh/Pytorch-Representation-Learning-Mila)**
-  - Deep learning and representation learning projects using PyTorch
-  - [Project Page](#) *(Coming Soon)*
-
-- **[Sequential Language Models - Mila](https://github.com/khanimkh/Sequential-Language-Models-Mila)**
-  - Implementation of sequential language models
-  - [Project Page](#) *(Coming Soon)*
-
----
 
 ### 🧠 LLMs and LMMs and Generative AI
 
@@ -70,6 +52,23 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### RAG (Retrieval-Augmented Generation)
 - Projects coming soon...
+
+---
+### 🤖 Machine Learning and Deep Learning
+
+#### Machine Learning
+- **[MultiAgent Environments using Cellular Learning Automata (M.Sc. Project)](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
+  - Multi-agent reinforcement learning using cellular learning automata
+  - [Project Page](#) *(Coming Soon)*
+
+#### Deep Learning
+- **[PyTorch Representation Learning - Mila](https://github.com/khanimkh/Pytorch-Representation-Learning-Mila)**
+  - Deep learning and representation learning projects using PyTorch
+  - [Project Page](#) *(Coming Soon)*
+
+- **[Sequential Language Models - Mila](https://github.com/khanimkh/Sequential-Language-Models-Mila)**
+  - Implementation of sequential language models
+  - [Project Page](#) *(Coming Soon)*
 
 ---
 
