@@ -1,4 +1,4 @@
-# Maryam Khani | AI & Machine Learning Portfolio
+# Maryam Khani | AI Specialist & Machine Learning Portfolio
 
 Welcome to my GitHub profile! Here you'll find my projects organized by category.
 
