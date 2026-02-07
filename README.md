@@ -47,9 +47,6 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### Prompt Engineering
 - Projects coming soon...
 
-#### Chatbot
-- Projects coming soon...
-
 #### RAG (Retrieval-Augmented Generation)
 - Projects coming soon...
 
