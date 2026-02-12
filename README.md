@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Intelligent banking assistant powered by AI
   - [Project Page](#) *(Coming Soon)*
 
-- **[LLM Chatbot - Langchain](https://github.com/khanimkh/LLM-Chatbot-Langchain)**
+- **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
   - Chatbot implementation using LLMs and Langchain
   - [Project Page](#) *(Coming Soon)*
 
