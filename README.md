@@ -91,7 +91,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Medical image analysis using U-Net architecture
   - [Project Page](#) *(Coming Soon)*
 
-- **[MLP and CNN as Classifier on MNIST Dataset](https://github.com/khanimkh/MLP-and-CNN-as-classifier-on-MNIST-Dataset)**
+- **[MLP and CNN as Classifier on MNIST Dataset](https://github.com/khanimkh/MLP-CNN-CNN-classifier-with-MNIST)**
   - Comparing MLP and CNN performance on MNIST
   - [Project Page](#) *(Coming Soon)*
 
