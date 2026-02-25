@@ -59,11 +59,11 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - [Project Page](#) *(Coming Soon)*
 
 #### Deep Learning
-- **[PyTorch Representation Learning - Mila](https://github.com/khanimkh/Pytorch-Representation-Learning-Mila)**
+- **[PyTorch Representation Learning](https://github.com/khanimkh/Pytorch-Representation-Learning)**
   - Deep learning and representation learning projects using PyTorch
   - [Project Page](#) *(Coming Soon)*
 
-- **[Sequential Language Models - Mila](https://github.com/khanimkh/Sequential-Language-Models-Mila)**
+- **[Sequential Language Models](https://github.com/khanimkh/Sequential-Language-Models)**
   - Implementation of sequential language models
   - [Project Page](#) *(Coming Soon)*
 
