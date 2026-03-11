@@ -40,7 +40,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Parse PDFs and generate abstracts using multimodal AI
   - [Project Page](#) *(Coming Soon)*
 
-- **[Transformers HuggingFace Multimodal](https://github.com/khanimkh/Transformers_HuggingFace_Multimodal)**
+- **[Multimodal AI App using HuggingFace and Gradio](https://github.com/khanimkh/Transformers_HuggingFace_Multimodal)**
   - Multimodal transformers using HuggingFace
   - [Project Page](#) *(Coming Soon)*
 
