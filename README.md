@@ -106,6 +106,10 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 - **[Deploy ML with FastAPI, Docker & Cloud](https://github.com/khanimkh/Deploy_ML_FastAPI_Docker_Cloud)**
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
+ 
+- **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
+  - End-to-end LLMs deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
+  - [Project Page](#) *(Coming Soon)*
 
 ---
 
