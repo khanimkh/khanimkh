@@ -48,7 +48,10 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 - Projects coming soon...
 
 #### RAG (Retrieval-Augmented Generation)
-- Projects coming soon...
+
+- **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
+  - End-to-end LLMs deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
+  - [Project Page](#) *(Coming Soon)*
 
 ---
 ### 🤖 Machine Learning and Deep Learning
