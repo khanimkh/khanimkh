@@ -114,6 +114,11 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - End-to-end LLMs deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
 
+- **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
+  - End-to-end ML deployment using Azure AI Vision, and a FastAPI web interface.
+  - [Project Page](#) *(Coming Soon)*
+
+
 ---
 
 ### 🔒 Trustworthy and Privacy
