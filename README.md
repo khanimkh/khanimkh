@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ### ◆ LLMs, LMMs, and Generative AI
 
-#### ○ Agents
+#### ◇ Agents
 
 - **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
   - Chatbot implementation using LLMs and Langchain
@@ -41,10 +41,10 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Multimodal transformers using HuggingFace
   - [Project Page](#) *(Coming Soon)*
 
-#### ▪ Prompt Engineering
+#### ◇ Prompt Engineering
 - Projects coming soon...
 
-#### ▫ RAG (Retrieval-Augmented Generation)
+#### ◇ RAG (Retrieval-Augmented Generation)
 
 - **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
   - End-to-end LLM deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
@@ -58,7 +58,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Multi-agent reinforcement learning using cellular learning automata
   - [Project Page](#) *(Coming Soon)*
 
-#### ▲ Deep Learning
+#### □ Deep Learning
 - **[PyTorch Representation Learning](https://github.com/khanimkh/Pytorch-Representation-Learning)**
   - Deep learning and representation learning projects using PyTorch
   - [Project Page](#) *(Coming Soon)*
@@ -69,9 +69,9 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-### ▼ Data Engineering
+### ◆ Data Engineering
 
-#### △ 3D Data Processing
+#### ◇ 3D Data Processing
 - **[PPG 3D Points](https://github.com/khanimkh/PPG_3Dpoints)**
   - Processing and analysis of 3D point cloud data
   - [Project Page](#) *(Coming Soon)*
@@ -81,7 +81,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-### ● Computer Vision and Image Processing
+### ◈ Computer Vision and Image Processing
 
 - **[CPDNet PhD Project](https://github.com/khanimkh/CPDNet_PhD_Project)**
   - Change detection network for PhD research
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-### ★ Cloud and MLOps
+### ☁ Cloud and MLOps
 
 - **[Deploy ML with FastAPI, Docker & Cloud](https://github.com/khanimkh/Deploy_ML_FastAPI_Docker_Cloud)**
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
