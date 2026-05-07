@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Chatbot implementation using LLMs and Langchain
   - [Project Page](#) *(Coming Soon)*
 
-- **[Multi Agentic Systems with Crew](https://github.com/khanimkh/Multi-Agentic-Systems-with-Crew)**
+- **[Multi Agent Banking Workflows with CrewAI](https://github.com/khanimkh/Multi_Agent-Banking-Workflows-with-CrewAI)**
   - Multi-agent systems using CrewAI framework
   - [Project Page](#) *(Coming Soon)*
 
