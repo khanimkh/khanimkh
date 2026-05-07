@@ -7,13 +7,6 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 ### 🧠 LLMs and LMMs and Generative AI
 
 #### Agents
-- **[Agentic AI](https://github.com/khanimkh/Agentic-AI)**
-  - Building intelligent AI agents with advanced capabilities
-  - [Project Page](#) *(Coming Soon)*
-
-- **[AI Bank Assistant](https://github.com/khanimkh/AI-Bank-Assistant)**
-  - Intelligent banking assistant powered by AI
-  - [Project Page](#) *(Coming Soon)*
 
 - **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
   - Chatbot implementation using LLMs and Langchain
@@ -21,6 +14,10 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 - **[Multi Agent Banking Workflows with CrewAI](https://github.com/khanimkh/Multi_Agent-Banking-Workflows-with-CrewAI)**
   - Multi-agent systems using CrewAI framework
+  - [Project Page](#) *(Coming Soon)*
+ 
+- **[Adaptive CrewAI: Learning Through Train/Test Feedback](https://github.com/khanimkh/Adaptive_CrewAI-Learning-Through-Train_Test_Feedback)**
+  - Adaptive CrewAI through getting human feedbacks
   - [Project Page](#) *(Coming Soon)*
 
 #### LMMs (Large Multimodal Models)
