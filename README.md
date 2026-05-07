@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Here you'll find my projects organized by category.
 
-## ▣ Repository Categories
+## Repository Categories
 
 ### ◆ LLMs, LMMs, and Generative AI
 
