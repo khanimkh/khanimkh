@@ -1,12 +1,12 @@
-# Maryam Khani | AI Specialist & Machine Learning Portfolio
+# ◻ Maryam Khani | AI Specialist & Machine Learning Portfolio
 
 Welcome to my GitHub profile! Here you'll find my projects organized by category.
 
-## 📚 Repository Categories
+## ▣ Repository Categories
 
-### 🧠 LLMs and LMMs and Generative AI
+### ◆ LLMs, LMMs, and Generative AI
 
-#### Agents
+#### ○ Agents
 
 - **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
   - Chatbot implementation using LLMs and Langchain
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Adaptive CrewAI through getting human feedbacks
   - [Project Page](#) *(Coming Soon)*
 
-#### LMMs (Large Multimodal Models)
+#### ◇ LMMs (Large Multimodal Models)
 - **[Multimodal Search](https://github.com/khanimkh/Multimodal-Search)**
   - Search across multiple modalities (text, image, etc.)
   - [Project Page](#) *(Coming Soon)*
@@ -41,24 +41,24 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Multimodal transformers using HuggingFace
   - [Project Page](#) *(Coming Soon)*
 
-#### Prompt Engineering
+#### ▪ Prompt Engineering
 - Projects coming soon...
 
-#### RAG (Retrieval-Augmented Generation)
+#### ▫ RAG (Retrieval-Augmented Generation)
 
 - **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
-  - End-to-end LLMs deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
+  - End-to-end LLM deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
 
 ---
-### 🤖 Machine Learning and Deep Learning
+### ■ Machine Learning and Deep Learning
 
-#### Machine Learning
+#### □ Machine Learning
 - **[MultiAgent Environments using Cellular Learning Automata (M.Sc. Project)](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
   - Multi-agent reinforcement learning using cellular learning automata
   - [Project Page](#) *(Coming Soon)*
 
-#### Deep Learning
+#### ▲ Deep Learning
 - **[PyTorch Representation Learning](https://github.com/khanimkh/Pytorch-Representation-Learning)**
   - Deep learning and representation learning projects using PyTorch
   - [Project Page](#) *(Coming Soon)*
@@ -69,19 +69,19 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-### 🗄️ Data Engineering
+### ▼ Data Engineering
 
-#### 3D Data Processing
+#### △ 3D Data Processing
 - **[PPG 3D Points](https://github.com/khanimkh/PPG_3Dpoints)**
   - Processing and analysis of 3D point cloud data
   - [Project Page](#) *(Coming Soon)*
 
-#### Data Processing
+#### ◇ Data Processing
 - Projects coming soon...
 
 ---
 
-### 👁️ Computer Vision and Image Processing
+### ● Computer Vision and Image Processing
 
 - **[CPDNet PhD Project](https://github.com/khanimkh/CPDNet_PhD_Project)**
   - Change detection network for PhD research
@@ -101,24 +101,23 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-### ☁️ Clouds and MLOps
+### ★ Cloud and MLOps
 
 - **[Deploy ML with FastAPI, Docker & Cloud](https://github.com/khanimkh/Deploy_ML_FastAPI_Docker_Cloud)**
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
  
 - **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
-  - End-to-end LLMs deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
+  - End-to-end LLM deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
-  - End-to-end ML deployment using Azure AI Vision, and a FastAPI web interface.
+  - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
-
 
 ---
 
-### 🔒 Trustworthy and Privacy
+### ✦ Trustworthy and Privacy
 
 - **[Context-Aware Trustworthy Service Evaluation in SIoT (M.Sc. Project)](https://github.com/khanimkh/Context-Aware-Trustworthy-Service-Evaluation-in-SIoT_M.Sc._Project)**
   - Trust evaluation in Social Internet of Things
@@ -126,10 +125,10 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ---
 
-## 📫 Contact
+## ✉ Contact
 
 Feel free to reach out or explore my repositories!
 
 <!--
-**khanimkh/khanimkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khanimkh/khanimkh** is a special repository because its `README.md` appears on your GitHub profile.
 -->
