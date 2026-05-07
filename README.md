@@ -106,14 +106,25 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 - **[Deploy ML with FastAPI, Docker & Cloud](https://github.com/khanimkh/Deploy_ML_FastAPI_Docker_Cloud)**
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
- 
-- **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
-  - End-to-end LLM deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
-  - [Project Page](#) *(Coming Soon)*
+
+Cloud AI Services & LLM APIs
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
   - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
+ 
+- **[Full-Stack Azure RAG OpenAI Assistant](https://github.com/khanimkh/Full-Stack-Azure-LLM-RAG-Application)**
+  - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
+  - [Project Page](#) *(Coming Soon)*
+
+Cloud CI/CD & Automation
+
+Cloud ML Platforms (Development & Deployment)
+
+Data Workflow Orchestration & Automation
+
+ML Monitoring & Visualization
+
 
 ---
 
