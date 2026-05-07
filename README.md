@@ -51,14 +51,14 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - [Project Page](#) *(Coming Soon)*
 
 ---
-### ■ Machine Learning and Deep Learning
+### ❖ Machine Learning and Deep Learning
 
-#### □ Machine Learning
+#### ✧ Machine Learning
 - **[MultiAgent Environments using Cellular Learning Automata (M.Sc. Project)](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
   - Multi-agent reinforcement learning using cellular learning automata
   - [Project Page](#) *(Coming Soon)*
 
-#### □ Deep Learning
+#### ✧ Deep Learning
 - **[PyTorch Representation Learning](https://github.com/khanimkh/Pytorch-Representation-Learning)**
   - Deep learning and representation learning projects using PyTorch
   - [Project Page](#) *(Coming Soon)*
