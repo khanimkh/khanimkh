@@ -79,6 +79,8 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### ◇ Data Processing
 - Projects coming soon...
 
+#### ◇ Big Data Processing
+- Projects coming soon...
 ---
 
 ### ◈ Computer Vision and Image Processing
@@ -107,7 +109,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
 
-Cloud AI Services & LLM APIs
+☁️ Cloud AI Services & LLM APIs
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
   - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
@@ -117,18 +119,22 @@ Cloud AI Services & LLM APIs
   - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
 
-Cloud CI/CD & Automation
+☁️ Cloud CI/CD & Automation
 
-Cloud ML Platforms (Development & Deployment)
+☁️ Cloud ML Platforms (Development & Deployment)
 
-Data Workflow Orchestration & Automation
+☁️ Data Workflow Orchestration & Automation
 
-ML Monitoring & Visualization
+☁️ ML Monitoring & Visualization
 
 
 ---
 
 ### ✦ Trustworthy and Privacy
+
+#### ✧ Data Sharing
+
+#### ✧ Service Evaluation (Social IoT)
 
 - **[Context-Aware Trustworthy Service Evaluation in SIoT (M.Sc. Project)](https://github.com/khanimkh/Context-Aware-Trustworthy-Service-Evaluation-in-SIoT_M.Sc._Project)**
   - Trust evaluation in Social Internet of Things
