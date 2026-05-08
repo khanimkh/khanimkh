@@ -109,7 +109,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
 
-☁️ Cloud AI Services & LLM APIs
+![Cloud Service](https://path-to-your-white-cloud-black-border.svg) Cloud AI Services & LLM APIs
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
   - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
