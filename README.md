@@ -84,7 +84,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 ### ◈ Computer Vision and Image Processing
 
 - **[CPDNet PhD Project](https://github.com/khanimkh/CPDNet_PhD_Project)**
-  - Change detection network for PhD research
+  - Prediction of Surgical Outcomes Using the Proposed 3D Point Deformation Network.
   - [Project Page](#) *(Coming Soon)*
 
 - **[Medical Image Classification & Segmentation (U-Net)](https://github.com/khanimkh/Medical_Image_Classification_Segmentation_U-Net)**
