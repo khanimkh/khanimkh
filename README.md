@@ -21,13 +21,6 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - [Project Page](#) *(Coming Soon)*
 
 #### ◇ LMMs (Large Multimodal Models)
-- **[Multimodal Search](https://github.com/khanimkh/Multimodal-Search)**
-  - Search across multiple modalities (text, image, etc.)
-  - [Project Page](#) *(Coming Soon)*
-
-- **[Multimodal Search with RAG](https://github.com/khanimkh/Multimodal-Search-with-RAG)**
-  - Retrieval-augmented generation for multimodal search
-  - [Project Page](#) *(Coming Soon)*
 
 - **[Healthcare Multimodal Assistant with Gemini and GCP](https://github.com/khanimkh/Healthcare-Multimodal-Assistant-with-Gemini-GCP)**
   - Working with Google's Gemini multimodal models.
