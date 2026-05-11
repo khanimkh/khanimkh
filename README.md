@@ -29,8 +29,8 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Retrieval-augmented generation for multimodal search
   - [Project Page](#) *(Coming Soon)*
 
-- **[Large Multimodal Models with Gemini](https://github.com/khanimkh/Large-Multimodal-Models-with-Gemini)**
-  - Working with Google's Gemini multimodal models
+- **[Healthcare Multimodal Assistant with Gemini and GCP](https://github.com/khanimkh/Healthcare-Multimodal-Assistant-with-Gemini-GCP)**
+  - Working with Google's Gemini multimodal models.
   - [Project Page](#) *(Coming Soon)*
 
 - **[Multimodal PDF Parser & Abstract Generator](https://github.com/khanimkh/Multimodal-PDF-Parser-Abstract-Generator)**
