@@ -84,13 +84,13 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Various image processing techniques and algorithms
   - [Project Page](#) *()*
 
+---
 ### ☁ Cloud and MLOps
 
 - **[Deploy ML with FastAPI, Docker & Cloud](https://github.com/khanimkh/Deploy_ML_FastAPI_Docker_Cloud)**
   - End-to-end ML deployment using FastAPI, Docker, and cloud services
   - [Project Page](#) *(Coming Soon)*
-
----
+    
 ### ☁️ Cloud AI Services & LLM APIs
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
