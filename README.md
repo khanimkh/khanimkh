@@ -82,7 +82,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### ◇ Image processing
 - **[Image Processing](https://github.com/khanimkh/Image-Proccesing)**
   - Various image processing techniques and algorithms
-  - [Project Page-1](#) *(https://maryamkhani.netlify.app/categories/image-and-audio-processing/)*
+  - [Project Page](#) *(https://maryamkhani.netlify.app/categories/image-and-audio-processing/)*
 
 ---
 ### ☁ Cloud and MLOps
