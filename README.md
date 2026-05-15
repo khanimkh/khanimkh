@@ -77,7 +77,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 - **[MLP and CNN as Classifier on MNIST Dataset](https://github.com/khanimkh/MLP-CNN-CNN-classifier-with-MNIST)**
   - Comparing MLP and CNN performance on MNIST
-  - [Project Page](#) *([Coming Soon](https://maryamkhani.netlify.app/posts/cnn/))*
+  - [Project Page](#) *(https://maryamkhani.netlify.app/posts/cnn/)*
 
 #### ◇ Image processing
 - **[Image Processing](https://github.com/khanimkh/Image-Proccesing)**
