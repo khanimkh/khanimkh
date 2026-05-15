@@ -104,7 +104,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 ☁️ Cloud AI Services & LLM APIs
 
-- **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)** : **[Poject Code]()|[Project Page]()**
+- *Full-Stack Azure Vision AI Application* : **[Poject Code](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application) || [Project Page]()**
   - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
   - [Project Page](#) *(Coming Soon)*
  
