@@ -118,8 +118,11 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/siot/)*
 
 ---
+## ✉ Contact & Links
 
-## ✉ Contact
+- LinkedIn: [maryam-khani](https://www.linkedin.com/in/maryam-khani/)
+- Email: khani.mkh@gmail.com
+- Portfolio: [maryamkhani.netlify.app](https://maryamkhani.netlify.app)
 
 Feel free to reach out or explore my repositories!
 
