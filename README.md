@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
   - Adaptive CrewAI through getting human feedbacks
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/app-crewai-adaptive/)*
 
-- **[Adaptive CrewAI: Learning Through Train/Test Feedback](https://github.com/khanimkh/Automated-Medical-Case-Review-System-with-Langgraph)**
+- **[Automated Medical Case Review System with Langgraph](https://github.com/khanimkh/Automated-Medical-Case-Review-System-with-Langgraph)**
   - Multi-agent systems using LangGraph framework
   - [Project Page](#) *()*
 
