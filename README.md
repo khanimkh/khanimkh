@@ -22,7 +22,12 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 - **[Automated Medical Case Review System with Langgraph](https://github.com/khanimkh/Automated-Medical-Case-Review-System-with-Langgraph)**
   - Multi-agent systems using LangGraph framework
-  - [Project Page](#) *()*
+  - [Project Page](#) *(https://maryamkhani.netlify.app/posts/app-langgraph-adaptive/)*
+
+ - **[LangGraph Workflow Patterns Through Practical Case Studies](https://github.com/khanimkh/LangGraph-Workflow-Patterns-Through-Practical-Case-Studies)**
+  - Several workflow and orchestration projects 
+  - [Project Page: part 1](#) *(https://maryamkhani.netlify.app/posts/part1-multi-agentic-systems-with-langgraph/)*
+  - [Project Page: part 2](#) *(https://maryamkhani.netlify.app/posts/part2-multi-agentic-systems-with-langgraph/)* 
 
 #### ◇ LMMs (Large Multimodal Models)
 
