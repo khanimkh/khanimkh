@@ -118,17 +118,17 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### ☁️ Cloud AI Services & LLM APIs
 
 - **[Full-Stack Azure Vision AI Application](https://github.com/khanimkh/Full-Stack-Azure-Vision-AI-Application)**
-  - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
+  - A Flask-based Azure AI Vision web application that integrates image analysis, OCR, face detection, image classification, and object detection into a single interactive web interface powered by Azure AI Services and Custom Vision models.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/g2-1-azure-ai-vision-app/)*
  
 - **[Full-Stack Azure RAG OpenAI Assistant](https://github.com/khanimkh/Full-Stack-Azure-LLM-RAG-Application)**
-  - End-to-end ML deployment using Azure AI Vision and a FastAPI web interface.
+  - An end-to-end Azure-based RAG application that combines Azure OpenAI and Azure AI Search to deliver context-aware question answering with a FastAPI backend, web interface, Docker deployment, and CI/CD automation.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/g2-3-azure-llm-app/)*
 
 ☁️ Data Workflow Orchestration & Automation
 
 - **[Book Recommendations with RAG & Airflow](https://github.com/khanimkh/Book-Recommendations-with-RAG-and-Airflow)**
-  - End-to-end LLM deployment using RAG, Apache Airflow orchestration, Weaviate vector search, and a FastAPI web interface.
+  - An end-to-end RAG-powered book recommendation platform that uses Airflow orchestration, Weaviate vector search, and FastAPI to deliver intelligent book discovery, management, and chatbot-based recommendations.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/g4-airflow-book-recommendation/)*
 
 ---
@@ -138,7 +138,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### ✧ Service Evaluation (Social IoT)
 
 - **[Context-Aware Trustworthy Service Evaluation in SIoT](https://github.com/khanimkh/Context-Aware-Trustworthy-Service-Evaluation-in-SIoT_M.Sc._Project)**
-  - Trust evaluation in Social Internet of Things
+  - A context-aware trust evaluation framework for Social IoT (SIoT) that combines QoS, social relationships, device context, and interaction feedback to enable secure, reliable, and attack-resilient service selection.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/siot/)*
 
 ---
