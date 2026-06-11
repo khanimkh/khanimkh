@@ -8,57 +8,72 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### ◇ Agents
 
+  - **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform) (In Progress)**
+  - AI-powered platform that retrieves and synthesizes information from multiple healthcare data sources using agentic workflows, RAG, and LLMs to support accurate clinical and research decision-making.
+  - [Project Page](#) *(In Progress)*
+    
 - **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
-  - Chatbot implementation using LLMs and Langchain
+  - A conversational AI assistant built with LangChain, FastAPI, and Retrieval-Augmented Generation (RAG), featuring memory, real-time web search, weather, news, and live information retrieval.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/designing-a-chatbot-with-langchain/)*
 
 - **[Multi Agent Banking Workflows with CrewAI](https://github.com/khanimkh/Multi_Agent-Banking-Workflows-with-CrewAI)**
-  - Multi-agent systems using CrewAI framework
+  - A production-ready multi-agent banking platform built with CrewAI, FastAPI, and OpenAI that automates customer advisory, risk compliance, lead qualification, personalized outreach, and AI-powered content generation through configurable agent workflows and structured outputs.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/app-crewai-multi-agent-banking-workflows/)*
  
 - **[Adaptive CrewAI: Learning Through Train/Test Feedback](https://github.com/khanimkh/Adaptive_CrewAI-Learning-Through-Train_Test_Feedback)**
-  - Adaptive CrewAI through getting human feedbacks
+  - A multi-agent CrewAI system that continuously improves support ticket analysis by testing agent performance, collecting user feedback, retraining on feedback, and measuring performance gains through an interactive train–test feedback loop.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/app-crewai-adaptive/)*
 
 - **[Automated Medical Case Review System with LangGraph](https://github.com/khanimkh/Automated-Medical-Case-Review-System-with-Langgraph)**
-  - Multi-agent systems using LangGraph framework
+  - An AI-powered healthcare application that uses LangGraph and LLMs to automatically review medical cases, assess patient risk levels, and generate clinical recommendations from structured case data.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/app-langgraph-adaptive/)*
 
  - **[LangGraph Workflow Patterns Through Practical Case Studies](https://github.com/khanimkh/LangGraph-Workflow-Patterns-Through-Practical-Case-Studies)**
-  - Several workflow and orchestration projects 
+  - A collection of practical AI workflow applications demonstrating prompt chaining, routing, parallelization, and agent orchestration using LangGraph and LangChain. 
   - [Project Page: part 1](#) *(https://maryamkhani.netlify.app/posts/part1-multi-agentic-systems-with-langgraph/)*
-  - [Project Page: part 2](#) *(https://maryamkhani.netlify.app/posts/part2-multi-agentic-systems-with-langgraph/)* 
+  - [Project Page: part 2](#) *(https://maryamkhani.netlify.app/posts/part2-multi-agentic-systems-with-langgraph/)*
+
 
 #### ◇ LMMs (Large Multimodal Models)
 
 - **[Healthcare Multimodal Assistant with Gemini and GCP](https://github.com/khanimkh/Healthcare-Multimodal-Assistant-with-Gemini-GCP)**
-  - Working with Google's Gemini multimodal models.
+  - An AI-powered healthcare platform that leverages Google's Gemini multimodal models for clinical Q&A, medical document and image analysis, video intelligence, healthcare image generation, and integration with external medical knowledge APIs.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/gemini-healthcare-app/)*
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/gemini/)*
 
 - **[Multimodal PDF Parser & Abstract Generator](https://github.com/khanimkh/Multimodal-PDF-Parser-Abstract-Generator)**
-  - Parse PDFs and generate abstracts using multimodal AI
+  - An end-to-end AI-powered document processing system that extracts, parses, and summarizes PDF content using multiple parsing engines (PyPDF2, Gemini, Mistral OCR) with asynchronous FastAPI and Redis-based background processing.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/multimodal-pdf-parser-abstract-generator/)*
 
 - **[Multimodal AI App using HuggingFace and Gradio](https://github.com/khanimkh/Transformers_HuggingFace_Multimodal)**
-  - Multimodal transformers using HuggingFace
+  - A modular end-to-end multimodal AI platform built with Hugging Face Transformers, PyTorch, and Gradio, supporting speech, vision, and language tasks including ASR, image captioning, segmentation, translation, summarization, embeddings, and text-to-speech.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/huggingface/)*
 
 ---
 ### ❖ Machine Learning and Deep Learning
 
 #### ✧ Machine Learning
+
+- **[Customer-Intelligence-ML-Platform](https://github.com/khanimkh/Customer-Intelligence-ML-Platform) (In Progress)**
+  - An end-to-end machine learning platform for customer analytics, including churn prediction, customer lifetime value estimation, segmentation, and business intelligence dashboards.
+  - [Project Page](#) *(In Progress)*
+  - 
 - **[MultiAgent Environments using Cellular Learning Automata](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
-  - Multi-agent reinforcement learning using cellular learning automata
+  - A distributed multi-agent rescue coordination system that combines Cellular Learning Automata (CLA), GIS data, and reinforcement learning to dynamically allocate rescue tasks, reducing response time, travel distance, and improving team efficiency in disaster scenarios.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/taskallocation/)*
 
 #### ✧ Deep Learning
+
+- **[AWS-Multimodal-Recommendation-System](https://github.com/khanimkh/AWS-Multimodal-Recommendation-System) (In Progress)**
+  - An end-to-end recommendation platform that leverages text, image, and user interaction data to deliver personalized content recommendations using AWS cloud services and deep learning models.
+  - [Project Page](#) *(In Progress)*
+    
 - **[PyTorch Representation Learning](https://github.com/khanimkh/Pytorch-Representation-Learning)**
-  - Deep learning and representation learning projects using PyTorch
+  - A collection of hands-on PyTorch notebooks and implementations covering representation learning, neural networks, CNNs, GANs, and neural machine translation for deep learning education and experimentation.
   - [Project Page:Part 1](#) *(https://maryamkhani.netlify.app/posts/deep-learning-2/)*
 
 - **[Sequential Language Models](https://github.com/khanimkh/Sequential-Language-Models)**
-  - Implementation of sequential language models
+  - Implemented and compared RNN, GRU, and Transformer-based language models on the Penn Treebank dataset for next-word prediction, evaluating performance using loss and perplexity metrics.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/deep-learning-1/)*
 
 ---
@@ -67,7 +82,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### ◇ 3D Data Processing
 - **[PPG 3D Points](https://github.com/khanimkh/PPG_3Dpoints)**
-  - Processing and analysis of 3D point cloud data
+  - preprocessing and postprocessing geometric 3D point data used in the CPDNet PhD project for 3D shape analysis and modeling
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/point-cloud-processing/)*
 ---
 
@@ -76,21 +91,25 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 #### ◇ Computer Vision (Machine Learning)
 
 - **[CPDNet PhD Project](https://github.com/khanimkh/CPDNet_PhD_Project)**
-  - Prediction of Surgical Outcomes Using the Proposed 3D Point Deformation Network.
+  - CPDNet is a novel deep learning framework for patient-specific prediction of postoperative 3D spine shape in scoliosis surgery, using anatomical landmark deformation, clinical metadata, and rigid transformation learning to generate anatomically consistent surgical outcome predictions.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/cpdnet/)*
+ 
+- **[AWS-Multimodal-Recommendation-System](https://github.com/khanimkh/AWS-Multimodal-Recommendation-System) (In Progress)**
+  - An end-to-end recommendation platform that leverages text, image, and user interaction data to deliver personalized content recommendations using AWS cloud services and deep learning models.
+  - [Project Page](#) *(In Progress)*
 
 - **[Medical Image Classification & Segmentation (U-Net)](https://github.com/khanimkh/Medical_Image_Classification_Segmentation_U-Net)**
-  - Medical image analysis using U-Net architecture
+  - Developed end-to-end medical image classification and brain MRI abnormality segmentation models using MedMNIST and U-Net, including preprocessing, training, evaluation, and performance analysis.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/ml-classification-image/)*
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/ml-segmentation-image/)*
 
 - **[MLP and CNN as Classifier on MNIST Dataset](https://github.com/khanimkh/MLP-CNN-CNN-classifier-with-MNIST)**
-  - Comparing MLP and CNN performance on MNIST
+  - Implemented and compared handwritten digit classification using a NumPy-based Multi-Layer Perceptron (MLP) built from scratch and a PyTorch-based Convolutional Neural Network (CNN) on the MNIST dataset.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/cnn/)*
 
 #### ◇ Image processing
 - **[Image Processing](https://github.com/khanimkh/Image-Proccesing)**
-  - Various image processing techniques and algorithms
+  - — A hands-on image processing toolkit demonstrating spatial and frequency-domain techniques, including filtering, enhancement, segmentation, edge detection, and Fourier-based analysis using Python and OpenCV.
   - [Project Page](#) *(https://maryamkhani.netlify.app/categories/image-and-audio-processing/)*
 
 ---
