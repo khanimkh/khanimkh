@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### ◇ Agents
 
-  - **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform) (In Progress)**
+- **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform) (In Progress)**
   - AI-powered platform that retrieves and synthesizes information from multiple healthcare data sources using agentic workflows, RAG, and LLMs to support accurate clinical and research decision-making.
   - [Project Page](#) *(In Progress)*
     
@@ -57,7 +57,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 - **[Customer-Intelligence-ML-Platform](https://github.com/khanimkh/Customer-Intelligence-ML-Platform) (In Progress)**
   - An end-to-end machine learning platform for customer analytics, including churn prediction, customer lifetime value estimation, segmentation, and business intelligence dashboards.
   - [Project Page](#) *(In Progress)*
-  - 
+    
 - **[MultiAgent Environments using Cellular Learning Automata](https://github.com/khanimkh/MultiAgent_Environments_using-Cellular_Learning_Automata_M.Sc._Project)**
   - A distributed multi-agent rescue coordination system that combines Cellular Learning Automata (CLA), GIS data, and reinforcement learning to dynamically allocate rescue tasks, reducing response time, travel distance, and improving team efficiency in disaster scenarios.
   - [Project Page](#) *(https://maryamkhani.netlify.app/posts/taskallocation/)*
