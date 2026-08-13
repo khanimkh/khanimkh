@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### ◇ Agents
 
-- **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform) (In Progress)**
+- **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform)**
   - AI-powered platform that retrieves and synthesizes information from multiple healthcare data sources using agentic workflows, RAG, and LLMs to support accurate clinical and research decision-making.
   - [Project Page](#) *(In Progress)*
     
