@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 - **[RAG-Assistant-with-Role-Based-Access](https://github.com/khanimkh/RAG-Assistant-with-Role-Based-Access/tree/main)**
   - A production-oriented RAG assistant that provides secure, role-based question answering over technical documents using hybrid retrieval, grounded LLM responses, and citation validation.
-- [Project Page](#) *(https://maryamkhani.netlify.app/posts/rag-assitant-with-access/)*
+  - [Project Page](#) *(https://maryamkhani.netlify.app/posts/rag-assitant-with-access/)*
 
 - **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform)**
   - AI-powered platform that retrieves and synthesizes information from multiple healthcare data sources using agentic workflows, RAG, and LLMs to support accurate clinical and research decision-making.
