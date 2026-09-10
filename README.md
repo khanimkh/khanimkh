@@ -8,9 +8,14 @@ Welcome to my GitHub profile! Here you'll find my projects organized by category
 
 #### ◇ Agents
 
+- **[RAG-Assistant-with-Role-Based-Access](https://github.com/khanimkh/RAG-Assistant-with-Role-Based-Access/tree/main)**
+  - A production-oriented RAG assistant that provides secure, role-based question answering over technical documents using hybrid retrieval, grounded LLM responses, and citation validation.
+- [Project Page](#) *(https://maryamkhani.netlify.app/posts/rag-assitant-with-access/)*
+
 - **[Healthcare-multisource-agentic-rag-platform](https://github.com/khanimkh/Healthcare-multisource-agentic-rag-platform)**
   - AI-powered platform that retrieves and synthesizes information from multiple healthcare data sources using agentic workflows, RAG, and LLMs to support accurate clinical and research decision-making.
-  - [Project Page](#) *(In Progress)*
+  - [Project Page](#) *(part 1: https://maryamkhani.netlify.app/posts/part1-multi-agentic-systems-multisources-with-langgraph/)*
+  - [Project Page](#) *(part 2: https://maryamkhani.netlify.app/posts/part2-multi-agentic-systems-multisources-with-langgraph/)*
     
 - **[LLM Chatbot - Langchain - RAG](https://github.com/khanimkh/LLM-Chatbot-LangChain-RAG)**
   - A conversational AI assistant built with LangChain, FastAPI, and Retrieval-Augmented Generation (RAG), featuring memory, real-time web search, weather, news, and live information retrieval.
